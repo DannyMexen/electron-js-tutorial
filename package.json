@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/DannyMexen/electron-js-tutorial/issues"
   },
-  "homepage": "https://github.com/DannyMexen/electron-js-tutorial#readme"
+  "homepage": "https://github.com/DannyMexen/electron-js-tutorial#readme",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
 }
